@@ -1,0 +1,93 @@
+Feature,Importance,Phase
+enginesize,0.6364789238863034,Existing data
+highwaympg,0.09360023230617055,Existing data
+curbweight,0.0803134121474375,Existing data
+horsepower,0.07049895210719953,Existing data
+citympg,0.022268931830752015,Existing data
+wheelbase,0.020630393754299838,Existing data
+carlength,0.01626493017246662,Existing data
+carwidth,0.01463186321688278,Existing data
+cylindernumber,0.008815149489285112,Existing data
+peakrpm,0.0073367747410477135,Existing data
+compressionratio,0.005404112823746155,Existing data
+drivewheel_rwd,0.00515478169515325,Existing data
+stroke,0.0043886453201132675,Existing data
+fuelsystem_idi,0.002863936508959357,Existing data
+fuelsystem_mpfi,0.0028428141094915455,Existing data
+carheight,0.0019364080440628306,Existing data
+boreratio,0.001731921762698973,Existing data
+carbody_convertible,0.0017254204345363783,Existing data
+symboling,0.0009038219870064273,Existing data
+fuelsystem_2bbl,0.0005460599560288476,Existing data
+carbody_sedan,0.00048104743328411786,Existing data
+carbody_hatchback,0.0003015466562606903,Existing data
+aspiration_turbo,0.00026485282447976787,Existing data
+enginetype_ohc,0.00024465938582986794,Existing data
+enginetype_dohc,0.000180161436407129,Existing data
+enginetype_l,7.781072434204399e-05,Existing data
+carbody_wagon,2.9356260614246453e-05,Existing data
+aspiration_std,2.7323537733302834e-05,Existing data
+fueltype_gas,2.1428870792512966e-05,Existing data
+enginetype_ohcv,2.088424834699611e-05,Existing data
+doornumber_four,8.495483163152363e-06,Existing data
+drivewheel_4wd,2.2216358206546234e-06,Existing data
+drivewheel_fwd,1.509940081970094e-06,Existing data
+enginelocation_front,9.087535562569605e-07,Existing data
+fuelsystem_mfi,3.0651564505432695e-07,Existing data
+enginelocation_rear,0.0,Existing data
+doornumber_two,0.0,Existing data
+carbody_hardtop,0.0,Existing data
+fuelsystem_1bbl,0.0,Existing data
+fuelsystem_spfi,0.0,Existing data
+fuelsystem_4bbl,0.0,Existing data
+fuelsystem_spdi,0.0,Existing data
+enginetype_ohcf,0.0,Existing data
+enginetype_dohcv,0.0,Existing data
+enginetype_rotor,0.0,Existing data
+fueltype_diesel,0.0,Existing data
+enginesize,0.6364789238863034,New Unseen data
+highwaympg,0.09360023230617055,New Unseen data
+curbweight,0.0803134121474375,New Unseen data
+horsepower,0.07049895210719953,New Unseen data
+citympg,0.022268931830752015,New Unseen data
+wheelbase,0.020630393754299838,New Unseen data
+carlength,0.01626493017246662,New Unseen data
+carwidth,0.01463186321688278,New Unseen data
+cylindernumber,0.008815149489285112,New Unseen data
+peakrpm,0.0073367747410477135,New Unseen data
+compressionratio,0.005404112823746155,New Unseen data
+drivewheel_rwd,0.00515478169515325,New Unseen data
+stroke,0.0043886453201132675,New Unseen data
+fuelsystem_idi,0.002863936508959357,New Unseen data
+fuelsystem_mpfi,0.0028428141094915455,New Unseen data
+carheight,0.0019364080440628306,New Unseen data
+boreratio,0.001731921762698973,New Unseen data
+carbody_convertible,0.0017254204345363783,New Unseen data
+symboling,0.0009038219870064273,New Unseen data
+fuelsystem_2bbl,0.0005460599560288476,New Unseen data
+carbody_sedan,0.00048104743328411786,New Unseen data
+carbody_hatchback,0.0003015466562606903,New Unseen data
+aspiration_turbo,0.00026485282447976787,New Unseen data
+enginetype_ohc,0.00024465938582986794,New Unseen data
+enginetype_dohc,0.000180161436407129,New Unseen data
+enginetype_l,7.781072434204399e-05,New Unseen data
+carbody_wagon,2.9356260614246453e-05,New Unseen data
+aspiration_std,2.7323537733302834e-05,New Unseen data
+fueltype_gas,2.1428870792512966e-05,New Unseen data
+enginetype_ohcv,2.088424834699611e-05,New Unseen data
+doornumber_four,8.495483163152363e-06,New Unseen data
+drivewheel_4wd,2.2216358206546234e-06,New Unseen data
+drivewheel_fwd,1.509940081970094e-06,New Unseen data
+enginelocation_front,9.087535562569605e-07,New Unseen data
+fuelsystem_mfi,3.0651564505432695e-07,New Unseen data
+enginelocation_rear,0.0,New Unseen data
+doornumber_two,0.0,New Unseen data
+carbody_hardtop,0.0,New Unseen data
+fuelsystem_1bbl,0.0,New Unseen data
+fuelsystem_spfi,0.0,New Unseen data
+fuelsystem_4bbl,0.0,New Unseen data
+fuelsystem_spdi,0.0,New Unseen data
+enginetype_ohcf,0.0,New Unseen data
+enginetype_dohcv,0.0,New Unseen data
+enginetype_rotor,0.0,New Unseen data
+fueltype_diesel,0.0,New Unseen data
