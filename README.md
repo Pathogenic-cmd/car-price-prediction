@@ -103,4 +103,4 @@ The analysis is visualized in Power BI with:
 
 👤 **Daniel Awuma**  
 📧 awumadaniel015@gmail.com  
-🔗 [LinkedIn]( www.linkedin.com/in/daniel-awuma-23201b22a)
+🔗 www.linkedin.com/in/daniel-awuma-23201b22a
